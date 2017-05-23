@@ -1,0 +1,20 @@
+!SESSION 2016-04-13 19:08:13.562 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_25
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data G:\代码\md5test\src\com -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2016-04-13 19:08:15.498
+!MESSAGE Could not load repository template extension contributed by org.sonar.ide.eclipse.mylyn.ui with connectorKind jira
+!SESSION 2016-04-14 08:14:19.971 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_25
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2016-04-14 08:14:21.757
+!MESSAGE Could not load repository template extension contributed by org.sonar.ide.eclipse.mylyn.ui with connectorKind jira
